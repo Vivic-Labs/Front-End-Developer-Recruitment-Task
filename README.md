@@ -5,7 +5,7 @@ We have got a task for you.
 
 This is a widget you could find in a mobile banking app. Can you create something like this?
 
-![preview](https://raw.githubusercontent.com/Vivic-Labs/Front-End-Developer-Recruitment-Task/master/images/preview.png = 800px)
+![preview](https://raw.githubusercontent.com/Vivic-Labs/Front-End-Developer-Recruitment-Task/master/images/preview.png = 800x)
 
 Create a widget component shown on the preview.
 Use the data from **data.json** file.
