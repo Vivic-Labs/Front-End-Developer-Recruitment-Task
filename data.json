@@ -1,0 +1,36 @@
+{
+    "amount": 250.35,
+    "accountNumber": "12109010140000071219812874",
+    "currency": {
+        "code": "PLN",
+        "humanFriendly": "zł"
+    },
+    "lastTransactions": [
+        {
+            "id": 12345,
+            "amount": -23.54,
+            "type": "card_payment",
+            "description": "MasterCard Terminal HS9D34",
+            "timestamp": 1560504756,
+            "balanceAfterOperation": 250.35
+        },
+        {
+            "id": 12189,
+            "amount": 18.99,
+            "type": "incoming_transfer",
+            "from": "Dan Brown",
+            "description": "Pizza from yesterday",
+            "timestamp": 1560359056,
+            "balanceAfterOperation": 270.69
+        },
+        {
+            "id": 11342,
+            "amount": -10.17,
+            "type": "outgoing_transfer",
+            "to": "Mark Zuckerberg",
+            "description": "Uber ride",
+            "timestamp": 1560255465,
+            "balanceAfterOperation": 251.70
+        }
+    ]
+}
