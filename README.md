@@ -5,7 +5,7 @@ We have got a task for you.
 
 This is a widget you could find in a mobile banking app. Can you create something like this?
 
-![preview](https://raw.githubusercontent.com/Vivic-Labs/Front-End-Developer-Recruitment-Task/master/images/preview.png)
+![preview](https://raw.githubusercontent.com/Vivic-Labs/Front-End-Developer-Recruitment-Task/master/images/preview.png = 800px)
 
 Create a widget component shown on the preview.
 Use the data from **data.json** file.
@@ -24,7 +24,7 @@ Use the data from **data.json** file.
 7. Don't worry about stuff like authentication etc.
 
 ### Submission
-Preferably, we would like you to submit your code via platforms like [CodePen](http://codepen.io/) or [JS Bin](https://jsbin.com)or by sending us your git repository. Remember, we should be able to run your code without any problems.
+Preferably, we would like you to submit your code via platforms like [CodePen](http://codepen.io/) or [JS Bin](https://jsbin.com) or by sending us your git repository. Remember, we should be able to run your code without any problems.
 
 Good luck! If having any questions, reach us at **careers@viviclabs.com**
 
